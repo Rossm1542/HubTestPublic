@@ -1,2 +1,1 @@
-This is the original file, if we branch after this then this will be the contents of the file on both branches
-On the master branch we simply append a message to the currently existing file, we do not overwrite the original contents
+For the sake of this example, we simply overwrite the contents of the file with something completely new. You may wish to open a file editor (like vi or emac) and manually pick and choose which parts of the file from each branch you want to keep or discard)
