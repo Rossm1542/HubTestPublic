@@ -1,1 +1,2 @@
 This is the original file, if we branch after this then this will be the contents of the file on both branches
+On the master branch we simply append a message to the currently existing file, we do not overwrite the original contents
